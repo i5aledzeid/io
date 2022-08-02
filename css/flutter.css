@@ -1,8 +1,15 @@
 * {
+    padding: 0;
+    margin: 0;
     background-color: tomato;
     color: white;
 }
 
 a {
     color: white;
+}
+
+title {
+    color: white;
+    font-style: bold;
 }
