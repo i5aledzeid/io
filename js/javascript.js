@@ -1,7 +1,4 @@
-window.dataLayer = window.dataLayer || [];
-function gtag() { dataLayer.push(arguments); }
-gtag('js', new Date());
-gtag('config', 'UA-70447982-5');
+
 
 // calculator
 console.log("Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io")
