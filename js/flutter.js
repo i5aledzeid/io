@@ -1,1 +1,1 @@
-document.write("Update 1");
+document.alert("Update 1");
