@@ -1,6 +1,6 @@
 alert("Update 1");
 
-var name = readLine("What's your name?");
+var name = prompt("What's your name?", "Write your name...");
 var favorite = readLine("What's your favorite programming language?");
 var language = readLine("What's your language?");
 
